@@ -1,4 +1,4 @@
-package com.avk.app;
+package com.avk.app.homework_1;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
