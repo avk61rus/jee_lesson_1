@@ -27,7 +27,7 @@
 
   <servlet>
     <servlet-name>Product</servlet-name>
-    <servlet-class>com.avk.app.Product</servlet-class>
+    <servlet-class>com.avk.app.homework_1.Product</servlet-class>
   </servlet>
 
   <servlet-mapping>
